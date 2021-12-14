@@ -1,1 +1,12 @@
-{ "data": 1111}
+{ 
+  "request: {
+    "context": "parameters",
+    "subject": "system",
+    "var": "updatesAuto",
+    "value": false
+  },
+  "response": {
+    "code": 1,
+    "text": "Updated"
+  }
+}
