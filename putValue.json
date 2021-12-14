@@ -1,5 +1,5 @@
 { 
-  "request: {
+  "request": {
     "context": "parameters",
     "subject": "system",
     "var": "updatesAuto",
